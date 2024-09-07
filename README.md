@@ -7,3 +7,6 @@ The function of this calculator is to:
     devide 2 number
 Clac documntation by Charles of NewEra
 Add something
+
+
+This is class 21 DevOps team

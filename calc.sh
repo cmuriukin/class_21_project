@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Calculator
+# This is a simple Calculator
 
 echo "Simple Calculator"
 echo "-----------------"
