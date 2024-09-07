@@ -7,5 +7,8 @@ The function of this calculator is to:
     devide 2 number
 Clac documntation by Charles of NewEra
 Add something
-This is New Era Solutions Academy
+
+Deleting a file is not recomended
+This is NewEra Solutions Academy class 21 2024 
+This is class 21
 This is class 21 DevOps team
