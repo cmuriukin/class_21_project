@@ -2,7 +2,7 @@
 
 # CALCULATOR FOR BASIC MATHEMATICS
 
-echo "CALCULATOR :)"
+echo "CALCULATOR"
 echo "START================START"
 
 # Ask for two numbers
