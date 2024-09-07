@@ -1,25 +1,25 @@
 #!/bin/bash
 
-# This is a simple Calculator
+# CALCULATOR FOR BASIC MATHEMATICS
 
-echo "Simple Calculator"
-echo "-----------------"
+echo "CALCULATOR :)"
+echo "START================START"
 
 # Ask for two numbers
-read -p "Enter first number: " num1
-read -p "Enter second number: " num2
+read -p "Please enter first number: " num1
+read -p "Please enter second number: " num2
 
 # Display the operation menu
-echo "Select operation:"
-echo "1. Addition (+)"
-echo "2. Subtraction (-)"
-echo "3. Multiplication (*)"
-echo "4. Division (/)"
+echo "Select your operation:"
+echo "1. Addition(To add two numbers) (+)"
+echo "2. Subtraction(To subtract two numbers) (-)"
+echo "3. Multiplication (To multiply) (*)"
+echo "4. Division (To divide two numbers) (/)"
 
-# Read the user's choice
-read -p "Enter choice [1-4]: " choice
+# Read and select the user's choice
+read -p "Select arithmetic choice between [1-4]: " choice
 
-# Perform the operation based on the user's choice
+# Perform the arithmetic operations based on the choice selected
 case $choice in
     1)
         result=$(echo "$num1 + $num2" | bc)
@@ -38,11 +38,15 @@ case $choice in
             echo "Error: Division by zero is not allowed."
         else
             result=$(echo "scale=2; $num1 / $num2" | bc)
-            echo "Result: $num1 / $num2 = $result"
+            echo "Result: $num1 / $num = $result"
         fi
         ;;
     *)
         echo "Invalid choice."
         ;;
 esac
-
+#This calculator has been improved
+#Some of the changes made 
+#include
+#different instructions
+#and so many other things 

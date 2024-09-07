@@ -12,3 +12,8 @@ Deleting a file is not recomended
 This is NewEra Solutions Academy class 21 2024 
 This is class 21
 This is class 21 DevOps team
+
+
+We have made some improvements to the calculator
+We are giving clear instructions when using the calc
+New Era Solutions Calc Version 2 with improved instructions
