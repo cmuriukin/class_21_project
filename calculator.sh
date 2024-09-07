@@ -22,11 +22,11 @@ read -p "Select arithmetic choice between [1-4]: " choice
 # Perform the arithmetic operations based on the choice selected
 case $choice in
     1)
-        result=$(echo "$num1 + $num2" | bc)
+        result=$(echo "$num1 + $num2" | bc
         echo "Result: $num1 + $num2 = $result"
         ;;
     2)
-        result=$(echo "$num1 - $num2" | bc)
+        result=$(echo "$num1 - $num2" | bc)i
         echo "Result: $num1 - $num2 = $result"
         ;;
     3)
@@ -38,7 +38,7 @@ case $choice in
             echo "Error: Division by zero is not allowed."
         else
             result=$(echo "scale=2; $num1 / $num2" | bc)
-            echo "Result: $num1 / $num = $result"
+            echo "Result: $num1 / $num2 = $result"
         fi
         ;;
     *)
