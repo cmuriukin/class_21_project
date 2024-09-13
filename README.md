@@ -17,10 +17,3 @@ This is class 21 DevOps team
 We have made some improvements to the calculator
 We are giving clear instructions when using the calc
 New Era Solutions Calc Version 2 with improved instructions
-An new and improved instruction after  hotfix
-<<<<<<< Updated upstream
-New Era Solutions academy
-=======
-another conlict
-This new line is going to be brough back to the working state later on
->>>>>>> Stashed changes
