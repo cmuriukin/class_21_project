@@ -19,3 +19,4 @@ We are giving clear instructions when using the calc
 New Era Solutions Calc Version 2 with improved instructions
 An new and improved instruction after  hotfix
 New Era Solutions academy
+another conlict
