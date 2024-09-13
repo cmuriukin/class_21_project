@@ -44,7 +44,7 @@ case $choice in
     *)
         echo "Invalid choice."
         ;;
-esac
+esac #This is the improved version
 #This calculator has been improved
 #Some of the changes made 
 #include
