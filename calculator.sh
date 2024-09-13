@@ -50,5 +50,7 @@ esac
 #include
 #different instructions
 #and so many other things 
-#I am making some changes on line 53 of the calculator file from the Hot fix branch
+##I am making some changes on line 53 of the calculator file from the Hot fix branch
 #I am doing this to demonstrate git conflict
+#I am the second guy working on calc file in this feature branch
+#This is expected to cause a merge conflict
