@@ -45,7 +45,6 @@ case $choice in
         echo "Invalid choice."
         ;;
 esac
-#
 #This calculator has been improved
 #Some of the changes made 
 #include
