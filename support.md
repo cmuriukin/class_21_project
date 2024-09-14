@@ -7,3 +7,5 @@ New Era Solutions
 
 Thursday
 Friday
+Saturday
+Sunday
